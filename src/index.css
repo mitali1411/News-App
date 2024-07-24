@@ -1,0 +1,25 @@
+*{
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.carousel-item img {
+    height: 80vh;
+    /* object-position: 50px; */
+    object-fit: cover;  
+}
+
+#themeBtn{
+  position: fixed;
+  left: 20px;
+  bottom: 20px;
+  text-align: center;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
+
+.img-fluid image{
+  background-size: cover;
+  /* background-position: center; */
+}
+
